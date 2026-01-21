@@ -42,8 +42,6 @@
   include 'header.php'
   ?>
 
-
-
 <!-- contact-banner -->
 <div class="about-banner text-white">
    

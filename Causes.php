@@ -76,7 +76,7 @@
 
           
           <div class="col-md-10">
-            <img src="photos/causes.png" class="img-fluid rounded campaign-img" alt="">
+            <img src="photos/Causes.png" class="img-fluid rounded campaign-img" alt="">
           </div>
 
           
