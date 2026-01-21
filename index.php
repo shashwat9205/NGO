@@ -62,7 +62,7 @@
               every child
             </h1>
             <p>Helping communities thrive by providing aid</p>
-            <a  href="causes.php"class="btn donate-btn btn-lg rounded-pill">View Our Causes</a>
+            <a  href="Causes.php"class="btn donate-btn btn-lg rounded-pill">View Our Causes</a>
           </div>
         </div>
 
@@ -74,7 +74,7 @@
               Schooling
             </h1>
             <p>Helping communities thrive by providing aid.</p>
-            <a href=" causes.php" class="btn donate-btn btn-lg rounded-pill">View Our Causes</a>
+            <a href="Causes.php" class="btn donate-btn btn-lg rounded-pill">View Our Causes</a>
           </div>
         </div>
       </div>

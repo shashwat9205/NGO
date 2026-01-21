@@ -96,12 +96,13 @@
 
 
 
-            <li class="nav-item me-4">
-              <a class="nav-link" href="Contact.php">Contact Us</a>
-            </li>
+            
 
             <li class="nav-item me-4">
               <a class="nav-link" href="about.php">About Us</a>
+            </li>
+            <li class="nav-item me-4">
+              <a class="nav-link" href="Contact.php">Contact Us</a>
             </li>
           </ul>
         </div>
